@@ -1,6 +1,6 @@
 # Today's Work — Employee Task Dashboard
 
-A hand‑coded Python + Tkinter desktop app to track daily employee tasks.
+ Python + Tkinter desktop app to track daily employee tasks.
 Every feature is written manually — no frameworks, no shortcuts.
 
 ## Features
